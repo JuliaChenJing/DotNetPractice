@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repo\\DotNetPractice\\WpfApp1\\WpfApp1\\WPFcORE.csproj",
-      "projectName": "WPFcORE",
-      "projectPath": "C:\\Repo\\DotNetPractice\\WpfApp1\\WpfApp1\\WPFcORE.csproj",
+      "projectUniqueName": "C:\\Repo\\DotNetPractice\\WpfApp1\\WinFormCore\\WinFormCore.csproj",
+      "projectName": "WinFormCore",
+      "projectPath": "C:\\Repo\\DotNetPractice\\WpfApp1\\WinFormCore\\WinFormCore.csproj",
       "packagesPath": "C:\\Users\\jchen\\.nuget\\packages\\",
-      "outputPath": "C:\\Repo\\DotNetPractice\\WpfApp1\\WpfApp1\\obj\\",
+      "outputPath": "C:\\Repo\\DotNetPractice\\WpfApp1\\WinFormCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -63,7 +63,7 @@
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           },
-          "Microsoft.WindowsDesktop.App.WPF": {
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
             "privateAssets": "none"
           }
         },

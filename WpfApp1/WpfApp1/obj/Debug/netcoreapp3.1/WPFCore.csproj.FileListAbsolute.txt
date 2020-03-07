@@ -1,0 +1,17 @@
+C:\Repo\DotNetPractice\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WPFCore.exe
+C:\Repo\DotNetPractice\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WPFCore.deps.json
+C:\Repo\DotNetPractice\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WPFCore.runtimeconfig.json
+C:\Repo\DotNetPractice\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WPFCore.runtimeconfig.dev.json
+C:\Repo\DotNetPractice\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WPFCore.dll
+C:\Repo\DotNetPractice\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WPFCore.pdb
+C:\Repo\DotNetPractice\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WPFCore.csprojAssemblyReference.cache
+C:\Repo\DotNetPractice\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Repo\DotNetPractice\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Repo\DotNetPractice\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WPFCore_MarkupCompile.cache
+C:\Repo\DotNetPractice\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WPFCore_MarkupCompile.lref
+C:\Repo\DotNetPractice\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Repo\DotNetPractice\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WPFCore.g.resources
+C:\Repo\DotNetPractice\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WPFCore.AssemblyInfoInputs.cache
+C:\Repo\DotNetPractice\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WPFCore.AssemblyInfo.cs
+C:\Repo\DotNetPractice\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WPFCore.dll
+C:\Repo\DotNetPractice\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WPFCore.pdb

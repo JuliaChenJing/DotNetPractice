@@ -1,0 +1,11 @@
+C:\Repo\DotNetPractice\WpfApp1\WinFormCore\bin\Debug\netcoreapp3.1\WinFormCore.exe
+C:\Repo\DotNetPractice\WpfApp1\WinFormCore\bin\Debug\netcoreapp3.1\WinFormCore.deps.json
+C:\Repo\DotNetPractice\WpfApp1\WinFormCore\bin\Debug\netcoreapp3.1\WinFormCore.runtimeconfig.json
+C:\Repo\DotNetPractice\WpfApp1\WinFormCore\bin\Debug\netcoreapp3.1\WinFormCore.runtimeconfig.dev.json
+C:\Repo\DotNetPractice\WpfApp1\WinFormCore\bin\Debug\netcoreapp3.1\WinFormCore.dll
+C:\Repo\DotNetPractice\WpfApp1\WinFormCore\bin\Debug\netcoreapp3.1\WinFormCore.pdb
+C:\Repo\DotNetPractice\WpfApp1\WinFormCore\obj\Debug\netcoreapp3.1\WinFormCore.csprojAssemblyReference.cache
+C:\Repo\DotNetPractice\WpfApp1\WinFormCore\obj\Debug\netcoreapp3.1\WinFormCore.AssemblyInfoInputs.cache
+C:\Repo\DotNetPractice\WpfApp1\WinFormCore\obj\Debug\netcoreapp3.1\WinFormCore.AssemblyInfo.cs
+C:\Repo\DotNetPractice\WpfApp1\WinFormCore\obj\Debug\netcoreapp3.1\WinFormCore.dll
+C:\Repo\DotNetPractice\WpfApp1\WinFormCore\obj\Debug\netcoreapp3.1\WinFormCore.pdb
