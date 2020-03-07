@@ -8,3 +8,6 @@ https://www.youtube.com/watch?v=a66wsCRSgDk
 
 C# Tutorial For Beginners - Learn C# Basics in 1 Hour
 https://www.youtube.com/watch?v=gfkTfcpWqAY&t=3050s
+
+C# Tutorial
+https://www.youtube.com/watch?v=lisiwUZJXqQ
