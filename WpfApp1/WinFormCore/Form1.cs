@@ -17,5 +17,10 @@ namespace WinFormCore
             InitializeComponent();
         }
 
+        private void btn_click(object sender, EventArgs e)
+        {
+            //Outputter.Text = "Left";
+            //Outputter.Left  = 50;
+        }
     }
 }
